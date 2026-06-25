@@ -19,17 +19,3 @@ This roadmap is anchored by technical literature to move from runtime mechanics 
 
 ---
 
-## Planned Milestone Labs
-
-- [ ] **Lab 01:** Mastering the Event Loop and Custom EventEmitters.
-- [ ] **Lab 02:** High-performance stream manipulation and data pipelines.
-- [ ] **Lab 03:** Multi-threading with Worker Threads vs. Cluster module.
-- [ ] **Lab 04:** Custom HTTP engine benchmarks and native dependency tracking.
-
----
-
-## Progress Tracker
-
-* **Runtime Fundamentals:** 30%
-* **Asynchronous Patterns:** 0%
-* **System Architecture:** 0%
